@@ -7,21 +7,8 @@
 
 🌐 A entity that randomly manifests across the internet — or perhaps the Earth — in chaotic and interlaced ways.
 
-**🛠️ Skills**
+🛠️ Programming & Development / CTF / AI & ML / Systems & Ops...
 
-- 💻 Programming & Development
-- 🧩 Puzzle / Riddle Solving
-- 📚 AI & Machine Learning
-- 🎨 Design & Photography
-- 🏴‍☠️ CTF Challenges
-- ⚙️ Systems & Ops
-- 📦 Web Archiving
-- 🧠 Algorithms
-
-**🌱 Currently**
-
-- Studying software development and AI
-- Exploring anything fun & intriguing
-- Archiving interesting corners of the web
+🌱 Currently studying software development and AI, exploring anything fun.
 
 *Fluctuates between reality and void — catch if you can.*
